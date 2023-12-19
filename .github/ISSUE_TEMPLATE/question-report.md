@@ -1,4 +1,3 @@
-cat .github/ISSUE_TEMPLATE/question-report.md
 ---
 name: 🙋 问题交流 | Question Report
 about: 在文档或讨论中没有回答的使用问题 | Usage question that isn't answered in docs or discussion

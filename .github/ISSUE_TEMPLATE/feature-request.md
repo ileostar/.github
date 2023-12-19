@@ -1,4 +1,3 @@
-cat .github/ISSUE_TEMPLATE/issue-template-feature.md
 ---
 name: 🚀 功能请求 | Feature Request
 about: 请详细描述您期望的功能。 | Please describe in detail the features you expect.
