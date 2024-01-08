@@ -5,6 +5,7 @@ title: "🚀 一些功能。。。 | [Feature]Some feature..."
 labels: ["enhancement"]
 ---
 
+在提交PR前，请你确定你已经阅读了[贡献指南](https://github.com/ileostar/contribute)
 <!-- 请在您提交期望的功能之前，回答以下这些问题。 | Please answer these questions before you submit the desired feature. -->
 
 #### 您使用的场景？ | 1. Your usage scenarios?
